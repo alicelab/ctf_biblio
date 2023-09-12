@@ -1,2 +1,21 @@
 ctf_biblio
 
+livres :
+
+Connaissez-vous vraiment Internet ?
+			Article 19
+	https://www.eyrolles.com/Informatique/Livre/connaissez-vous-vraiment-internet--9782416007279/
+
+Internet ce qui nous échappe
+			Coline Tison
+
+Enigmes ludiques pour s'initier à la Cryptographie
+			Pascal Lafourcade, Malika More
+	https://www.dunod.com/sciences-techniques/25-enigmes-ludiques-pour-initier-cryptographie
+		
+La Cybersécurité
+	Charles Perez & Karina Sokolova
+
+Assembleur :
+	La découverte de l'assembleur
+		Nasser Saïdi
