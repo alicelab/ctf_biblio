@@ -2,6 +2,10 @@ ctf_biblio
 
 livres :
 
+Datamania: Le grand pillage de nos données
+			Audric Gueidan et Halfbob
+	https://www.dunod.com/histoire-geographie-et-sciences-politiques/datamania-grand-pillage-nos-donnees-personnelles
+
 Connaissez-vous vraiment Internet ?
 			Article 19
 	https://www.eyrolles.com/Informatique/Livre/connaissez-vous-vraiment-internet--9782416007279/
@@ -19,3 +23,7 @@ La Cybersécurité
 Assembleur :
 	La découverte de l'assembleur
 		Nasser Saïdi
+
+Techniques de Hacking
+	Jon Erickson
+
