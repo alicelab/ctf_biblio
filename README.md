@@ -1,2 +1,3 @@
 # ctf_biblio
-Bibliographie et ressources pour se préparer à des CTF
+Bibliographie et ressources pour se préparer à des CTF,
+blablabla.
