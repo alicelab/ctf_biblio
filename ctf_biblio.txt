@@ -2,6 +2,7 @@ ctf_biblio
 
 livres :
 
+
 Datamania: Le grand pillage de nos données
 			Audric Gueidan et Halfbob
 	https://www.dunod.com/histoire-geographie-et-sciences-politiques/datamania-grand-pillage-nos-donnees-personnelles
